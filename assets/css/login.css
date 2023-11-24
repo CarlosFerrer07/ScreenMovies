@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/fondo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form {
+    border: 1px solid;
+    color: black;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.user {
+    margin-top: 20px;
+}
+
+.submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: blue;
+    color: whitesmoke;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
